@@ -1,0 +1,9 @@
+# Ignore dependencies
+subprojects/*
+!subprojects/*.wrap
+
+# Ignore all code editor settings
+.*
+!.gitignore
+!.clang-format
+!.clang-format-ignore
